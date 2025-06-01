@@ -1,6 +1,6 @@
 # 🐿️ Squirrel Census Analysis with AWS Bedrock + Claude 3.5
 
-This project uses **AWS Bedrock** and **Anthropic Claude 3.5 Sonnet** to perform natural language analysis on urban wildlife data — specifically, the 2018 Central Park Squirrel Census 🏙️🌳. It leverages large language models (LLMs) to generate engaging, narrative-style insights from structured observational data.
+This project uses **AWS Bedrock** and **Anthropic Claude 3.5 Sonnet** to perform natural language analysis on urban wildlife data — specifically, the 2018 Central Park Squirrel Census 🏙️🌳. It leverages a large language model (LLM) to generate engaging, narrative-style insights from structured observational data.  I chose a random & simple dataset to play around with proof of concept with the LLM to build a simple project.  My intent is to build a more sophisticated project with real world utility later.  But I wanted to start simple.  
 
 ## 🚀 Highlights
 
