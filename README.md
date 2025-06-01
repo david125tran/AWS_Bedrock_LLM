@@ -29,16 +29,46 @@ I chose a simple, quirky dataset as a proof of concept to explore prompt enginee
 
 ---
 
+## 📄 Sample Output
+
+👉 View the full markdown report here:
+squirrel_analysis_report.md
+
+## 📄 Output Preview
+
+```markdown
+# 🐿️ Central Park Squirrel Census Analysis 🌳
+
+## 📊 Dataset Overview
+
+This dataset contains 50 squirrel observations from Central Park, New York City. Each entry includes detailed information about the squirrel's location, physical characteristics, behaviors, and interactions with the environment.
+
+## 🗺️ Geographical Distribution
+
+- Observations span across various hectares of Central Park, from 02B to 40B.
+- Latitude range: 40.7681954366911 to 40.7982886348696
+- Longitude range: -73.9801666435401 to -73.9532170504865
+
+## 🎨 Fur Color Analysis
+
+1. Primary Fur Colors:
+   - Gray: 33 (66%)
+   - Cinnamon: 4 (8%)
+   - Black: 2 (4%)
+   - Not specified: 11 (22%)
+
+2. Highlight Fur Colors:
+   - Cinnamon: 11
+   - White: 7
+   - Gray: 1
+   - Multiple highlights: 3
+   - Not specified: 28
+
+
+
 ## 📦 Installation
 
 Install required Python packages:
 
 ```bash
 pip install boto3 python-dotenv pandas
-
-📄 Sample Output
-
-👉 View the full markdown report here:
-squirrel_analysis_report.md
-
-Here’s a short preview:
