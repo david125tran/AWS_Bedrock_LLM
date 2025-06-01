@@ -29,12 +29,10 @@ I chose a simple, quirky dataset as a proof of concept to explore prompt enginee
 
 ---
 
-## 📄 Sample Output
+## 📄 Output from Anthropic's Claude Sonnet 3.5:
 
 👉 View the full markdown report here:
-squirrel_analysis_report.md
-
-## 📄 Output Preview
+[squirrel_analysis_report.md](https://github.com/david125tran/AWS_Bedrock_LLM/blob/main/squirrel_analysis_report.md)
 
 ```markdown
 # 🐿️ Central Park Squirrel Census Analysis 🌳
