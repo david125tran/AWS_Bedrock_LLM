@@ -2,7 +2,7 @@
 
 This project demonstrates how to use **AWS Bedrock** and **Anthropic Claude 3.5 Sonnet** to generate narrative insights from structured data — in this case, the 2018 Central Park Squirrel Census 🏙️🌳.
 
-I chose a simple, quirky dataset as a proof of concept to explore prompt engineering, AWS Bedrock integration, and markdown-based output generation. The long-term goal is to build a more sophisticated project with real-world utility, but this serves as a fun and practical starting point.
+I chose a simple, quirky dataset as a proof of concept to explore prompt engineering, AWS Bedrock integration, and markdown-based output generation. The long-term goal is to build a more sophisticated project with real-world utility, but this serves as a fun and practical starting point. The model was fed some squirrel data in JSON format, trained to look for insights, and trained to respond on it's findings in markdown.  
 
 ---
 
