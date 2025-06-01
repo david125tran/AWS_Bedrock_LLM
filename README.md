@@ -27,3 +27,7 @@ Install required Python packages:
 
 ```bash
 pip install boto3 python-dotenv pandas
+
+## 📄 Sample Output
+
+Check out the full analysis here 👉 [squirrel_analysis_report.md](https://github.com/david125tran/AWS_Bedrock_LLM/blob/main/squirrel_analysis_report.md)
